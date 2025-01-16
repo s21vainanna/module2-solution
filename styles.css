@@ -108,6 +108,7 @@ ul {
       color: white;
       border-left: 1px solid black; /* Fixed border-left */
   	  border-bottom: 1px solid black; /* Fixed border-bottom */
+      font-family: Verdana;
     }
     
     /* Section title styles */
@@ -123,6 +124,7 @@ ul {
      /* border-radius: 0px;*/
       border-left: 1px solid black; /* Fixed border-left */
   	  border-bottom: 1px solid black; /* Fixed border-bottom */
+      font-family: Verdana;
     }
     
     
