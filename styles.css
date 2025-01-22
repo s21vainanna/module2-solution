@@ -21,7 +21,7 @@ ul {
   }
   
   li a:hover {
-  background-color: #c1c1c1;
+  background-color: darkgrey;
   }
   
     * {
@@ -39,7 +39,6 @@ ul {
       background-color: #999999;
       padding: 15px;
        padding-top: 30px;
-      font-family: Helvetica, Arial, sans-serif;
       color: black;
       position: relative; /* Enable positioning context for section titles */
     }
@@ -91,7 +90,6 @@ ul {
   	font-weight: bold;
   	border-left: 1px solid black; /* Fixed border-left */
   	border-bottom: 1px solid black; /* Fixed border-bottom */
-    /*border-radius: 0px;*/
     font-family: Verdana;
     }
     
@@ -104,8 +102,6 @@ ul {
       padding: 5px 10px;
       font-size: 12px;
       font-weight: bold;
-      /*border: 1px solid black;*/
-      /*border-radius: 0px;*/
       color: white;
       border-left: 1px solid black; /* Fixed border-left */
   	  border-bottom: 1px solid black; /* Fixed border-bottom */
@@ -121,8 +117,6 @@ ul {
       padding: 5px 10px;
       font-size: 12px;
       font-weight: bold;
-      /*border: 1px solid black;*/
-     /* border-radius: 0px;*/
       border-left: 1px solid black; /* Fixed border-left */
   	  border-bottom: 1px solid black; /* Fixed border-bottom */
       font-family: Verdana;
