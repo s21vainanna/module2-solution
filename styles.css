@@ -35,10 +35,11 @@ ul {
     }
 
     p {
+      font-family: cursive;
       border: 1px solid black;
       background-color: #999999;
       padding: 15px;
-       padding-top: 30px;
+      padding-top: 30px;
       color: black;
       position: relative; /* Enable positioning context for section titles */
     }
