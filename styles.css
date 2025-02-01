@@ -1,6 +1,6 @@
 ul {
   	list-style-type:none;
-    overflow: hidden;
+    overflow: hidden; /*if you have a list of items that should fit within a specific area, using overflow: hidden ensures that only the items that fit within that area are displayed*/
     background-color: #c1c1c1;
     position:relative;
   	border-bottom: 2px solid black;
@@ -149,7 +149,7 @@ ul {
       position: absolute;
       left: 10px;
       top: 50%;
-      transform: translateY(-50%);
+      transform: translateY(-50%); 
       width: 20px;
       height: 20px;
       color: black;
