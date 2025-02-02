@@ -85,7 +85,7 @@ ul {
 
     /* Section title styles */
     .section-title1 {
-      position: absolute;
+    position: absolute;
   	top: 0px;
   	right: 0px;
   	background-color: #d59898;
@@ -95,6 +95,8 @@ ul {
   	border-left: 1px solid black; /* Fixed border-left */
   	border-bottom: 1px solid black; /* Fixed border-bottom */
     font-family: Verdana;
+    border-bottom: 1.5px solid black;
+    border-left: 1.5px solid black;
     }
     
     /* Section title styles */
@@ -110,6 +112,8 @@ ul {
       border-left: 1px solid black; /* Fixed border-left */
   	  border-bottom: 1px solid black; /* Fixed border-bottom */
       font-family: Verdana;
+      border-bottom: 1.5px solid black;
+      border-left: 1.5px solid black;
     }
     
     /* Section title styles */
@@ -124,6 +128,8 @@ ul {
       border-left: 1px solid black; /* Fixed border-left */
   	  border-bottom: 1px solid black; /* Fixed border-bottom */
       font-family: Verdana;
+      border-bottom: 1.5px solid black;
+      border-left: 1.5px solid black;
     }
     
     
